@@ -1,4 +1,4 @@
 -- show list of tables 
 -- from mysql database
-use mysql;
+use hbtn_0c_0;
 show tables;
